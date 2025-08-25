@@ -1,0 +1,8 @@
+book_cleaned.csv
+tagged_description.txt
+__pycache__/
+books_with_emotions.csv
+books_with_categories.csv
+pyvenv.cfg
+venv/
+.gradio/
