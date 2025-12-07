@@ -78,32 +78,5 @@ Dataset download instructions are provided within the repository and notebooks, 
 
 ---
 
-## **How to Run**
 
-### **1. Clone the repository**
-
-```bash
-git clone https://github.com/Felci278/Booky.git
-cd Booky
-```
-
-### **2. Install dependencies**
-
-```bash
-pip install -r requirements.txt
-```
-
-### **3. Build the Vector Database**
-
-Execute the `vector-search.ipynb` notebook to generate embeddings and initialize the ChromaDB database.
-
-### **4. Launch the Web Application**
-
-```bash
-python gradio-dashboard.py
-```
-
-A local Gradio interface will open in your browser.
-
----
 
